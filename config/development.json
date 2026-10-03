@@ -1,5 +1,5 @@
 {
   "base_url": "https://router-us.knowledgeops.io/v1",
   "api_key": "sk-proj-CWzIcvWZmXMECWEHyIhjaD9uKTRauCdCIGk9LO1EejYn8sKz",
-  "model": "chat-default"
+  "model": "gpt-6-astra"
 }
